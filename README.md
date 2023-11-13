@@ -24,6 +24,7 @@ Make sure you have the necesarry programming language installed for the solution
 
 The repository is structured by courses and categories. Each folder contains solutions to problems related to that specific course or category.
 
+```bash
 /hackerrank-solutions
 |-- algorithms
 |   |-- problem1_solution.py
@@ -34,6 +35,8 @@ The repository is structured by courses and categories. Each folder contains sol
 |   |-- problem4_solution.py
 |   |-- ...
 |-- ...
+```
+
 
 ## Contributing
 
